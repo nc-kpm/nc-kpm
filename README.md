@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nc-kpm
-- 👀 I’m interested in software management and development
-- 🌱 I’m currently learning AWS / Rust / C# / Python
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning C# & Terraform
 - 💞️ I’m looking to collaborate on AUTOProff
 - 📫 How to reach me at kpm@netcompany.com
 
