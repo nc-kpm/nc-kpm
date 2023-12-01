@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on AUTOProff
 - 📫 How to reach me at kpm@netcompany.com
 
-![GitHub Snake Dark](https://github.com/nc-kpm/nc-kpm/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <!---
 nc-kpm/nc-kpm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
