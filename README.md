@@ -1,4 +1,4 @@
-- 📫 How to reach me at kpm@netcompany.com
+- 📫 Reach me at kpm@netcompany.com
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nc-kpm/nc-kpm/output/github-contribution-grid-snake-dark.svg" />
